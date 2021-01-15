@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="textActivityMain">Hola Mundo!!</string>
+    <string name="textBotonActivityMain">Púlsame</string>
+    <string name="textToastActivityMain">Mensaje de prueba</string>
+    <string name="textActivityMainCambiado">Adios mundo cruel</string>
+    <string name="textHintPlanetext">Nombre</string>
+</resources>
